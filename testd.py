@@ -5,3 +5,12 @@ print("\n -- student details -- ")
 print("name:",name)
 print("age:",age)
 print("address:",address)
+
+name=input("enter teacher name:")
+subject=input("enter the subject:")
+courcecode=input("enter the corcecode")
+
+print("\n---teacher details---")
+print("name:",name)
+print("subject:",subject)
+print("corcecode:",courcecode)
